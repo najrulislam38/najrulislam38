@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 </a>
 <br />
 
-<h1 align="center">Hi There, I'm Md Najrul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1>Hello there! 👋 I'm Md. Najrul Islam. </h1>
+<h3 align="center">I'm a passionate and motivated junior web developer with a focus on the MERN stack. My journey in the world of coding began with a curiosity to bring ideas to life through the power of technology and ready to bring designs to life and make the web a visually appealing and user-friendly space.</h3>
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najrulislam99&label=Profile%20views&color=0e75b6&style=flat" alt="najrulislam99" /> </p>
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-## :computer: Languages and Tools that I know
+## :computer: Tools and Technologies that I know
 
 <br />
 
