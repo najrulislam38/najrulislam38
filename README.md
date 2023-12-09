@@ -62,9 +62,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-## :chart_with_upwards_trend: Stats
+## 🔹 : Profile Summary
 
-<br />
-<p align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=najrulislam38&theme=ayu_mirage)
-</p>
