@@ -1,26 +1,3 @@
-<!--### Hi there 👋
-
-**najrulislam38/najrulislam38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# Current Overview
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-# Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najrulislam38)](https://git.io/streak-stats)
--->
-
 <a href="https://www.facebook.com/najrulislam38">
    <img src="https://i.ibb.co/rsL84yQ/git-banner.png" />
 </a>
@@ -32,13 +9,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najrulislam99&label=Profile%20views&color=0e75b6&style=flat" alt="najrulislam99" /> </p>
 
-## :eyes: Current overview
+## :eyes: Current Overview
 
 #### 🔭 I’m currently working on [Fitness Forge](https://github.com/najrulislam38/fitness-forge-client)
 
 #### 🌱 I’m currently learning **Material UI, Next.js and Mongoose**
 
-### 🌱 I’m exploring - Advance Mern Technologies .
+#### 🌱 I’m exploring - Advance Mern Technologies .
 
 #### 💬 Ask me about **js, react.js**
 
