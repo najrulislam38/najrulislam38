@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=najrulislam38)](https://git.io/streak-stats)
 -->
 
+<a href="https://www.facebook.com/najrulislam38">
+   <img src="https://i.ibb.co/rsL84yQ/git-banner.png" />
+</a>
+<br />
+
 <h1 align="center">Hi There, I'm Md Najrul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <br />
