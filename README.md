@@ -11,7 +11,7 @@
 
 ## :eyes: Current Overview
 
-#### 🔭 I’m currently working on [Fitness Forge](https://github.com/najrulislam38/fitness-forge-client)
+#### 🔭 I’m currently working on [Fitness Forge Project](https://github.com/najrulislam38/fitness-forge-client)
 
 #### 🌱 I’m currently learning **Material UI, Next.js and Mongoose**
 
