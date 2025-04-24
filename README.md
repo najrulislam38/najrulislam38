@@ -4,7 +4,7 @@
 <br />
 
 
-<h1>Hello there! 👋 I'm Md. Najrul Islam.</h1>
+<h1>Hello there! 👋 I'm Md. Najrul Islam.</h1> 
 <h3 >I'm a passionate and motivated junior web developer with a focus on the MERN stack. My journey in the world of coding began with a curiosity to bring ideas to life through the power of technology and ready to bring designs to life and make the web a visually appealing and user-friendly space.</h3>
 <br />
 
